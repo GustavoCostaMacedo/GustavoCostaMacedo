@@ -22,7 +22,7 @@ Eu sou Gustavo da Costa Macedo. Sou apaixonado por tecnologia e estou sempre em 
 
 ## 🚀 Habilidades
 
-- **Linguagens:** Python, SQL, Java, R, C, C#.  
+- **Linguagens:** Python, SQL, Java, R, C, C#, CSS.  
 - **Ferramentas:** Git Power BI, Tableau. 
 - **Banco de Dados:** MySQL.  
 - **Outros:** Análise de Dados.
@@ -31,4 +31,6 @@ Eu sou Gustavo da Costa Macedo. Sou apaixonado por tecnologia e estou sempre em 
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/gustavo-costa-5b0550171/ aberto a novas oportunidades de alinhar conhecimento técnico com transformação do mundo à minha volta.”
+
+<atps://www.linkedin.com/in/gustavo-costa-5b0550171/
+
