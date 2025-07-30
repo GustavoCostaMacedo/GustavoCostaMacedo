@@ -11,8 +11,8 @@ Eu sou Gustavo da Costa Macedo. Sou apaixonado por tecnologia e estou sempre em 
 - Graduado em Ciência da Computação pela Faculdade Anhaguera.  
 
 💻 Experiência:  
-- Atuação como [Seu Cargo Atual] na área de [Área de Atuação]  
-- Experiência com [tecnologias, ferramentas ou metodologias que domina]
+- Atuação como Analista de negócios na área comercial.
+- Experiência com SAP, CRM, Tableau e Power Bi focado em análise de dados.
 
 🌱 Atualmente aprendendo:  
 - Google Data Analytics
@@ -31,4 +31,4 @@ Eu sou Gustavo da Costa Macedo. Sou apaixonado por tecnologia e estou sempre em 
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/gustavo-costa-5b0550171/)/ aberto a novas oportunidades de alinhar conhecimento técnico com transformação do mundo à minha volta.”
+- [LinkedIn](https://www.linkedin.com/in/gustavo-costa-5b0550171/ aberto a novas oportunidades de alinhar conhecimento técnico com transformação do mundo à minha volta.”
