@@ -1,36 +1,26 @@
+# 👋 Olá! Eu sou Gustavo da Costa Macedo
 
-# Olá, sejam bem-vindos! 👋
+🎯 **Profissional focado em resultados**, com experiência em ambientes corporativos e paixão por tecnologia, inovação e aprendizado contínuo.
 
-Eu sou Gustavo da Costa Macedo. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados e desafios. Gosto de colaborar, compartilhar conhecimento e contribuir com soluções que fazem a diferença.
+## 💼 Experiência
+- 🏢 Empregado na área de suporte a negócios
+- 📊 Atuação com excel, power bi, sap e tableau.
 
----
+## 🛠️ Habilidades
+- 💻 **Linguagens**: Python, JavaScript, SQL, C, C# e R.
+- ⚙️ **Ferramentas**: Git, VS Code, Power Bi, Sap, CRM, Tableau
+- 🌐 **Web**: HTML, CSS.
 
-## 💼 Sobre Mim
+## 📚 Formação
+- 🎓 Ciência da Computação pela Faculdade Anhanguera
+- 📖 Cursos complementares em análise de dados, excel e metodologias agieis.
 
-🎓 Formação:  
-- Graduado em Ciência da Computação pela Faculdade Anhaguera.  
-
-💻 Experiência:  
-- Atuação como Analista de negócios na área comercial.
-- Experiência com SAP, CRM, Tableau e Power Bi focado em análise de dados.
-
-🌱 Atualmente aprendendo:  
-- Google Data Analytics
-- SQL for Data Science
-
----
-
-## 🚀 Habilidades
-
-- **Linguagens:** Python, SQL, Java, R, C, C#, CSS.  
-- **Ferramentas:** Git Power BI, Tableau. 
-- **Banco de Dados:** MySQL.  
-- **Outros:** Análise de Dados.
-
-
+## 🌱 Em aprendizado
+- 🧠 SQL for Data Science
+- 🕸️ Google Data Analytics
 
 ## 📫 Contato
+- 📧 gustaavoocostaa@gmail.com.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-costa-5b0550171/_ 
 
-
-<atps://www.linkedin.com/in/gustavo-costa-5b0550171/
 
